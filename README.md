@@ -1,11 +1,13 @@
-Проблемы и решения:
+Проблемы и решения
+------------------
  * http://stackoverflow.com/questions/1727217/file-open-open-and-io-foreach-in-ruby-what-is-the-difference - разные методы открытия файла и их отличия
  * http://stackoverflow.com/questions/130948/ruby-convert-file-to-string - открыть файл и загрузить его в String
  * http://stackoverflow.com/questions/975769/converting-a-ruby-string-into-an-array - превращаем строку в массив
  * http://stackoverflow.com/ - сайт по принципу Q&A. Весьма полезный источник планетарной мудрости
  * http://stackoverflow.com/questions/5500322/sessionshelper-in-railstutorial-org-should-helpers-be-general-purpose-modules-f - какую логику должны брать на себя helper'ы
 
-Полезные сайты:
+Полезные сайты
+--------------
  * http://www.rubyinside.com/ - Ruby news and tutorials since 2006 (часто падает)
  * http://www.rubyinside.com/21-ruby-tricks-902.html - 21 Ruby Tricks You Should Be Using In Your Own Code
  * http://habrahabr.ru/qa/34657/ рус - советы по тому, с чего начать изучение Ruby on Rails (книги, сайты, видео и пр материалы)
@@ -28,7 +30,8 @@
  * http://linuxgeeks.ru/bash-intro.htm - Основы Linux. Введение в bash
  * http://habrahabr.ru/post/147856/ - Sublime Text 2. Обзор и небольшой мануал по использованию
 
-Курсы, обучения и пр. :
+Курсы, обучения и пр.
+---------------------
  * http://www.codecademy.com/ - Code Academy Lessons (Ruby, CSS, HTML etc.). Интерактивный курс.
  * http://www.codeschool.com/ - Интерактивные курсы.
  | http://www.codeschool.com/courses/rails-testing-for-zombies
@@ -52,11 +55,13 @@
  * http://hasbrains.ru/ - скринкасты по Ruby и не только
  * http://ruby-doc.org/core-1.9.3/ - официальная документация по Ruby
 
-Прочие материалы:
+Прочие материалы
+----------------
  * http://habrahabr.ru/post/175599/ - Поход к цели длиною в жизнь (от 0 к Ruby on Rails 3)
  * http://evrone.ru/why_ruby_on_rails.html Почему Ruby/Ruby on Rails?
 
-Git:
+Git
+---
  * http://habrahabr.ru/post/60347/ рус - хорошо написанное введение в git
  * http://rogerdudler.github.io/git-guide/index.ru.html рус - простое руководство по работе с git
  * http://eax.me/git-commands/ рус - записки программиста - моя шпаргалка по работе с git
@@ -66,24 +71,29 @@ Git:
  * http://git-scm.com/book/ru - Pro Git (рус)
  * http://vimeo.com/14629850 - "Getting Git" скринкаст о Git 
 
-Heroku:
+Heroku
+------
  * http://vredniy.ru/2012/02/ruby-application-heroku/ деплой ruby приложения на heroku
 
-Sinatra:
+Sinatra
+-------
  * http://sinatra-book.gittr.com/ - книга о Синатре
  * http://www.sinatrarb.com/documentation.html - документация по Синатре
  * http://www.sinatrarb.com/intro-ru.html рус - оно же, на русском (может быть устаревшей)
  * http://sinatraruby.ru/articles.html - русские статьи о Синатре
 
-REST:
+REST
+----
  * http://ru.wikipedia.org/wiki/REST - кратко о REST
  * http://msdn.microsoft.com/ru-ru/magazine/dd315413.aspx - введение в службы RESTful с использованием Windows Communication Foundation
  * http://www.restapitutorial.com/ - Learn REST: A RESTful Tutorial
 
-HTTP:
+HTTP
+----
  * http://www.w3.org/Protocols/rfc2616/rfc2616.html - RFC HTTP/1.1
 
-Gems:
+Gems
+----
  * https://www.ruby-toolbox.com - гемы, много их
  * https://github.com/pry/pry - gem pry, продвинутый вариант irb
  * https://github.com/plataformatec/devise -  devise is a flexible authentication solution for Rails based on Warden
